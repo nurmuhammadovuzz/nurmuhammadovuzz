@@ -1,16 +1,28 @@
-## Hi there 👋
+# Javohirbek Nurmuhammadov
 
-<!--
-**nurmuhammadovuzz/nurmuhammadovuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economics Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I analyze business, economic, and financial data using Python to extract insights and support decision-making.
+My primary focus is economic and financial analytics, while applying general data analysis techniques used across industries.
+
+## Projects
+
+* Inflation Comparison: Uzbekistan vs Germany *(in progress)*
+
+## Skills
+
+* Python (NumPy, Pandas, Matplotlib)
+* Data Cleaning & Data Visualization
+* Statistical Analysis & Econometrics
+
+### Additional Tools
+
+* Stata
+* LaTeX
+* Excel
+
+## Contact
+
+Telegram: @Nurmuhammadou
